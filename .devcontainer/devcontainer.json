@@ -27,7 +27,7 @@
     // Tensorflow 2.17.0 requires CUDA 12.3 and Python 3.9-3.12
     // The most recent common Python version is 3.12
     "ghcr.io/devcontainers/features/python:1": {
-      "version": "3.12"
+      "version": "3.10.12"
     },
 
     // Git support inside the devcontainer
